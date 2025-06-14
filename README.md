@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Arvind!
 
-<!--
-**arvind-la/arvind-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Engineering student passionate about **technology, coding, and problem solving**. Currently exploring **Python**, **Git**, and **Web Development** to launch my career in tech.
 
-Here are some ideas to get you started:
+## 💡 What I'm Doing Now:
+- 🌱 Learning Python, Git, and SQL daily
+- 🔧 Building beginner projects like a Student Marksheet Generator, Weather App, and Portfolio Website
+- 📜 Completing certifications in Python & GitHub
+- 🚀 Preparing for my first tech role!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Skills I'm Learning:
+- Languages: Python, HTML, CSS, SQL
+- Tools: Git, GitHub, VS Code
+- Concepts: Problem Solving, API Integration
+
+## 📁 My Projects (coming soon!)
+- 📊 Student Marksheet Generator [WIP]
+- 🌐 Personal Portfolio Website
+- ☁️ Weather App using OpenWeather API
+
+## 🔗 Connect With Me:
+- [LinkedIn](www.linkedin.com/in/arvind-la)
+- 📬 Email: arvind.buela@gmail.com
+
+---
+
+🧠 *"The expert in anything was once a beginner." – Start small, dream big!*
