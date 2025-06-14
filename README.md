@@ -13,11 +13,6 @@
 - Tools: Git, GitHub, VS Code
 - Concepts: Problem Solving, API Integration
 
-## 📁 My Projects (coming soon!)
-- 📊 Student Marksheet Generator [WIP]
-- 🌐 Personal Portfolio Website
-- ☁️ Weather App using OpenWeather API
-
 ## 🔗 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/arvind-la)
 - 📬 Email: arvind.buela@gmail.com
