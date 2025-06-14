@@ -19,9 +19,9 @@
 - ☁️ Weather App using OpenWeather API
 
 ## 🔗 Connect With Me:
-- [LinkedIn](www.linkedin.com/in/arvind-la)
+- [LinkedIn](https://www.linkedin.com/in/arvind-la)
 - 📬 Email: arvind.buela@gmail.com
 
 ---
 
-🧠 *"The expert in anything was once a beginner." – Start small, dream big!*
+🧠 *"Success doesn’t come to you. You go to it."*
